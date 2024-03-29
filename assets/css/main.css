@@ -714,6 +714,8 @@ main{
     position:absolute;
     bottom: 0;
     padding: 20px;
+    width: 100%;
+    background: rgba(0,0,0,0.2);
 }
 .detail-inner{
     display:flex; 
